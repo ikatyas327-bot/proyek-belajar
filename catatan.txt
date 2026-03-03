@@ -1,1 +1,3 @@
-imika
+"ini catatan pertama saya" 
+"ini catatan kedua saya"
+"ini catatan ketiga saya"
